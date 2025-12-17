@@ -1,7 +1,7 @@
-BOT_TOKEN = "8041906247:AAE5OQKOPnCYUfS-fe-xrauqc0JzIng6vG8"
+BOT_TOKEN = ""
 WORKER_CHAT_ID = None
 DATABASE_PATH = "data/database.db"
-ADMIN_IDS = [979855667,966122911,1976526858,1028200379]
+ADMIN_IDS = []
 
 RESPONSIBLE_PERSONS = {
     "🪑 Мебель": "Иванов Иван - +79991234567",
